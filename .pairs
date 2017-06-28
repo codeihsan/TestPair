@@ -1,12 +1,7 @@
 pairs:
   zd: zhuodong; zzhang
   ih: ihsan; irowther
-email:
-  prefix: pair
-  domain: bbmtek.com
-  no_solo_prefix: true
-global: false  # Set to true for git-pair to change git configuration for all your projects
 
 email_addresses:
-  zd: jaredzhang09@gmail
+  zd: zzhang@bbmtek
   ih: irowther@bbmtek
