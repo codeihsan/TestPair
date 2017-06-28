@@ -1,7 +1,10 @@
 pairs:
   zd: zhuodong
   ih: ihsan
-
+email:
+   prefix: pair
+   domain: bbmtek.com
+   no_solo_prefix: true
 email_addresses:
   zd: jaredzhang09@gmail
   ih: irowther@bbmtek
